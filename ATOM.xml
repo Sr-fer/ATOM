@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Xataca-Fer</title>
+  <subtitle>Xataca</subtitle>
+  <link href="http://feeds.weblogssl.com/xataka2" rel="self"/>
+  <link href="http://feeds.weblogssl.com/xataka2"/>
+  <updated>2002-10-02T15:00:00.05Z</updated>
+  <author><name>Fernando</name></author>
+  <id>http://feeds.weblogssl.com/xataka2</id>
+  <entry>
+    <title>Netflix</title>
+    <link href="https://www.xataka.com/cine-y-tv/netflix-nos-ha-ahorrado-195-horas-repetitivo-visionado-simple-boton-a-cambio-ha-matado-arte" />
+    <updated>2002-10-02T15:00:00.05Z</updated>
+    <summary>Netflix nos ahorra tiempo</summary>
+    <id>https://www.xataka.com/cine-y-tv/netflix-nos-ha-ahorrado-195-horas-repetitivo-visionado-simple-boton-a-cambio-ha-matado-arte</id>
+  </entry>
+
+   <entry>
+    <title>Lampara IKEA</title>
+    <link href="https://www.xataka.com/accesorios/esta-lampara-ikea-altavoz-bluetooth-que-disfrutar-mucho-spotify" />
+    <updated>2002-10-02T15:00:00.05Z</updated>
+    <summary>Lampara de IKEA multiusos</summary>
+    <id>https://www.xataka.com/accesorios/esta-lampara-ikea-altavoz-bluetooth-que-disfrutar-mucho-spotify</id>
+  </entry>
+</feed>
